@@ -76,36 +76,36 @@ LLM generates complete ML code
 
 ## 📸 Screenshots
 
-![alt text](Main_UI.png)
+![Main UI](images/Main_UI.png)
 
 
 ### 📊 Dataset Analysis
 
-![alt text](Dataset_Analysis.png)
+![Dataset Analysis](images/Dataset_Analysis.png)
 
 
 ### 🧹 Cleaned Dataset Preview
 
-![alt text](Cleaned_Dataset_Preview.png)
+![Cleaned Dataset](images/Cleaned_Dataset_Preview.png)
 
 
 ### 🏆 Model Recommendations
 
-![alt text](Model_Recommendation.png)
+![Model Recommendation](images/Model_Recommendation.png)
 
 
 ### 📈 Visualizations
 
-![alt text](Visualization1.png)
+![Visualization](images/Visualization1.png)
 
-![alt text](Visualization2.png)
+![Visualization](images/Visualization2.png)
 
 
 ### 💻 Generate Python Code
 
-![alt text](Generate_Python_ML_code1.png)
+![Generate Python ML Code](images/Generate_Python_ML_code1.png)
 
-![alt text](Generate_Python_ML_code2.png)
+![Generate Python ML Code](images/Generate_Python_ML_code2.png)
 
 ---
 
