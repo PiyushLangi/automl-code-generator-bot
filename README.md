@@ -4,6 +4,13 @@ An intelligent AutoML system that analyzes datasets, detects problem types, reco
 
 ---
 
+## 🔥 Description
+
+An intelligent AutoML system designed to automate the machine learning workflow. The application analyzes datasets, performs feature engineering with data leakage prevention, detects problem types, and recommends optimal models based on dataset characteristics. It integrates LLM (Groq + Llama 3) to generate complete, production-ready Python ML pipelines including preprocessing, training, and evaluation. Built with an interactive Streamlit interface for seamless user experience and explainable insights.
+
+
+---
+
 ## 🚀 Features
 
 * 📊 Automatic dataset analysis (rows, columns, missing values, skewness)
